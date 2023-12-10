@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Ajayi Daneil" xml:space="preserve">
+    <value>姓名 ： Ajayi Daneil 电子邮件： ajayidaneil1233@gmail.com</value>
+  </data>
+  <data name="Alfonso Alvares" xml:space="preserve">
+    <value>姓名 ： Alfonso Alvares 电子邮件 ： alfonsoalvares@gmail.com</value>
+  </data>
+  <data name="Amaral Amorin" xml:space="preserve">
+    <value>姓名 ： Amaral Amorin 电子邮件 ： amaralamorin@gmail.com</value>
+  </data>
+  <data name="Andrade Antune" xml:space="preserve">
+    <value>姓名 ： Andrade Antune 电子邮件 ： andradeantune@gmail.com</value>
+  </data>
+  <data name="Arkanj Batita" xml:space="preserve">
+    <value>姓名 ：Arkanj Batita 电子邮件 ： arkanjbatita@gmail.com</value>
+  </data>
+</root>

@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<ArrayOfCacheFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <CacheFile>
+    <FileName>Resources\MeetingSheduled.resx</FileName>
+    <Checksum>192100178681709120024590227165130877817821524711618025319792671517813421818780209347</Checksum>
+    <ModifiedTime>2023-11-29T10:21:39.6891144</ModifiedTime>
+    <CacheFileType>NeutralResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>Resources\NewPeopleToMet.resx</FileName>
+    <Checksum>1131122061872918849113751498725420550190131466477173225722325181237229891126919</Checksum>
+    <ModifiedTime>2023-11-29T10:14:34.8367164</ModifiedTime>
+    <CacheFileType>NeutralResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>Resources\PeopleToMet.resx</FileName>
+    <Checksum>17917019398511802340422442343316614316921741091182916350311375252321454613114013</Checksum>
+    <ModifiedTime>2023-11-29T09:57:18.4098899</ModifiedTime>
+    <CacheFileType>NeutralResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>MultilingualResources\OnePage.SendEmail.zh-CN.xlf</FileName>
+    <Checksum>191412401901382358319124653201581791582047485701517180236228721631161526323321250</Checksum>
+    <ModifiedTime>2023-11-29T10:21:41.1771155+01:00</ModifiedTime>
+    <CacheFileType>XliffResource</CacheFileType>
+    <WarningMessage>
+      <string>9 resource strings with existing translations were updated and applied to the XLIFF file.  The related translations are unchanged, but should be checked to ensure they are still valid for the updated source string.</string>
+    </WarningMessage>
+  </CacheFile>
+  <CacheFile>
+    <FileName>Resources\MeetingSheduled.zh-CN.resx</FileName>
+    <Checksum>84195253242015325215725213023695184812161341016716611813113014814561131033828151181197</Checksum>
+    <ModifiedTime>2023-11-29T10:21:41.1821096+01:00</ModifiedTime>
+    <CacheFileType>LanguageResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>Resources\NewPeopleToMet.zh-CN.resx</FileName>
+    <Checksum>9224092157252511591491421711151832041191848221212111920151314328197138135899810826224</Checksum>
+    <ModifiedTime>2023-11-29T10:21:41.1821096+01:00</ModifiedTime>
+    <CacheFileType>LanguageResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>Resources\PeopleToMet.zh-CN.resx</FileName>
+    <Checksum>1132091771223410723611141622101594462192385311362718493892013222831234406695108</Checksum>
+    <ModifiedTime>2023-11-29T10:21:41.1811111+01:00</ModifiedTime>
+    <CacheFileType>LanguageResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>MultilingualResources\OnePage.SendEmail.es-ES.xlf</FileName>
+    <Checksum>2115024850664781612463414612414194665225521448015611118883583411625821236172</Checksum>
+    <ModifiedTime>2023-11-29T10:21:41.1091141+01:00</ModifiedTime>
+    <CacheFileType>XliffResource</CacheFileType>
+    <WarningMessage>
+      <string>9 resource strings with existing translations were updated and applied to the XLIFF file.  The related translations are unchanged, but should be checked to ensure they are still valid for the updated source string.</string>
+    </WarningMessage>
+  </CacheFile>
+  <CacheFile>
+    <FileName>MultilingualResources\OnePage.SendEmail.pt-BR.xlf</FileName>
+    <Checksum>1588410546211147171168971325410614515525414939561511248125513311375296425567202210</Checksum>
+    <ModifiedTime>2023-11-29T10:21:41.1331142+01:00</ModifiedTime>
+    <CacheFileType>XliffResource</CacheFileType>
+    <WarningMessage>
+      <string>9 resource strings with existing translations were updated and applied to the XLIFF file.  The related translations are unchanged, but should be checked to ensure they are still valid for the updated source string.</string>
+    </WarningMessage>
+  </CacheFile>
+  <CacheFile>
+    <FileName>MultilingualResources\OnePage.SendEmail.pt-PT.xlf</FileName>
+    <Checksum>15183189142114128569569511441436913222613344611221871671268178239172209828914</Checksum>
+    <ModifiedTime>2023-11-29T10:21:41.1541107+01:00</ModifiedTime>
+    <CacheFileType>XliffResource</CacheFileType>
+    <WarningMessage>
+      <string>9 resource strings with existing translations were updated and applied to the XLIFF file.  The related translations are unchanged, but should be checked to ensure they are still valid for the updated source string.</string>
+    </WarningMessage>
+  </CacheFile>
+  <CacheFile>
+    <FileName>Resources\MeetingSheduled.es-ES.resx</FileName>
+    <Checksum>1037220379987223723085145201021725319414413920219850131110882451011696863862345662</Checksum>
+    <ModifiedTime>2023-11-29T10:21:41.1131116+01:00</ModifiedTime>
+    <CacheFileType>LanguageResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>Resources\NewPeopleToMet.es-ES.resx</FileName>
+    <Checksum>1615929588416612576120228222351592361441701827614884203200188226160114137201151224</Checksum>
+    <ModifiedTime>2023-11-29T10:21:41.1141103+01:00</ModifiedTime>
+    <CacheFileType>LanguageResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>Resources\PeopleToMet.es-ES.resx</FileName>
+    <Checksum>18624110418516104131710923012474169183105156172251207197122127235144111481361919917818773</Checksum>
+    <ModifiedTime>2023-11-29T10:21:41.1131116+01:00</ModifiedTime>
+    <CacheFileType>LanguageResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>Resources\MeetingSheduled.pt-BR.resx</FileName>
+    <Checksum>5166721518614351721636925051216521941705119199185619296181225250120225172123111142</Checksum>
+    <ModifiedTime>2023-11-29T10:21:41.136112+01:00</ModifiedTime>
+    <CacheFileType>LanguageResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>Resources\NewPeopleToMet.pt-BR.resx</FileName>
+    <Checksum>156163182201394014227236732376882353238152401179201203311231632151514916215813252</Checksum>
+    <ModifiedTime>2023-11-29T10:21:41.1371106+01:00</ModifiedTime>
+    <CacheFileType>LanguageResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>Resources\PeopleToMet.pt-BR.resx</FileName>
+    <Checksum>107920921155197264613855188184208211139252141869624895431024973217159591558313587</Checksum>
+    <ModifiedTime>2023-11-29T10:21:41.136112+01:00</ModifiedTime>
+    <CacheFileType>LanguageResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>Resources\MeetingSheduled.pt-PT.resx</FileName>
+    <Checksum>23225120715712221612019110713914916420184214249942409424325150252165212502181431049018036</Checksum>
+    <ModifiedTime>2023-11-29T10:21:41.1571099+01:00</ModifiedTime>
+    <CacheFileType>LanguageResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>Resources\NewPeopleToMet.pt-PT.resx</FileName>
+    <Checksum>63601850144736414987951231612441772324917222165411092191204453123926612417775123</Checksum>
+    <ModifiedTime>2023-11-29T10:21:41.1561091+01:00</ModifiedTime>
+    <CacheFileType>LanguageResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>Resources\PeopleToMet.pt-PT.resx</FileName>
+    <Checksum>6619610517110233332194231892381794610618425224722126227177220137101107192941574959</Checksum>
+    <ModifiedTime>2023-11-29T10:21:41.1581118+01:00</ModifiedTime>
+    <CacheFileType>LanguageResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+</ArrayOfCacheFile>

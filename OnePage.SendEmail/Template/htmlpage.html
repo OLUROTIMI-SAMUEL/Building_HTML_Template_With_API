@@ -1,0 +1,93 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RESX Data</title>
+    <style>
+        #greeting-container {
+            display: flex;
+            align-items: center;
+        }
+
+        #greeting-text {
+            margin-right: 10px; 
+        }
+    </style>
+</head>
+<body>
+    <h1>Schedule Tracker</h1>
+
+    <div id="greeting-container">
+        <h3 id="greeting-text">Good Morning</h3>
+        <p id="your-name">Mr Pooran</p>
+    </div>
+    
+    <!--<h2 id="meeting-scheduled">Meeting Scheduled</h2>-->
+    <ul id="meeting-list"></ul>
+
+    <!--<h2 id="new-people-to-meet">New People to Meet</h2>-->
+    <ul id="new-people-list"></ul>
+
+    <!--<h2 id="people-to-meet">People to Meet</h2>-->
+    <ul id="people-list"></ul>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', async () => {
+            await fetchAndRender('meeting-scheduled', 'meeting-list', 'You Have {0} Meeting Today');
+            await fetchAndRender('new-people-to-meet', 'new-people-list', 'You Are Meeting {0} New People Today');
+            await fetchAndRender('people-to-meet', 'people-list', 'You Are Meeting {0} People Whom You Have Already Met');
+
+            addFinalMessages();
+        });
+
+        async function fetchAndRender(endpoint, elementId, comment) {
+            try {
+                const response = await fetch(`https://localhost:7032/api/meeting/${endpoint}`);
+                const data = await response.json();
+                const listElement = document.getElementById(elementId);
+
+                listElement.innerHTML = "";
+
+                let validValuesCount = 0;
+
+                if (data.length > 0) {
+                    
+                    const commentElement = document.createElement("li");
+                    commentElement.innerHTML = `<h2>${comment.replace('{0}', data.length)}</h2>`;
+                    listElement.appendChild(commentElement);
+
+                    data.forEach(item => {
+                        if (item.value !== "System.Resources.ResourceManager" && item.value !== null) {
+                            const listItem = document.createElement("li");
+                            listItem.innerHTML = item.value;
+                            listElement.appendChild(listItem);
+                            validValuesCount++;
+                        }
+                    });
+                }
+
+                if (validValuesCount > 0) {
+                    comment = comment.replace('{0}', validValuesCount);
+                }
+            } catch (error) {
+                console.error(`Error fetching data for ${endpoint}`, error);
+            }
+        }
+
+        function addFinalMessages() {
+            const bodyElement = document.querySelector('body');
+
+            const greatDayElement = document.createElement('h3');
+            greatDayElement.textContent = 'Have A Great Day Ahead';
+            bodyElement.appendChild(greatDayElement);
+
+            const teamElement = document.createElement('h3');
+            teamElement.textContent = '1Page Team';
+            bodyElement.appendChild(teamElement);
+        }
+    </script>
+</body>
+</html>

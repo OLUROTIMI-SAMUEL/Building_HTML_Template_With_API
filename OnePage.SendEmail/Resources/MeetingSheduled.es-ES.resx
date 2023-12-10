@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Correia Daaveed" xml:space="preserve">
+    <value>Hoy a las 10:30 tiene una reunión con Correia Daaveed</value>
+  </data>
+  <data name="Ferreira Figueira" xml:space="preserve">
+    <value>Usted tiene una reunión con Ferreira Figueira a las 11:30 de hoy</value>
+  </data>
+  <data name="Gomez Kolan" xml:space="preserve">
+    <value>Hoy tienes una reunión con Gomez Kolan a las 2:00</value>
+  </data>
+  <data name="LÇosta Morais" xml:space="preserve">
+    <value>Hoy tienes una reunión con LÇosta Morais a las 3:00</value>
+  </data>
+  <data name="Samuel Olurotimi" xml:space="preserve">
+    <value>Hoy tienes una reunión con Samuel Olurotimi a las 3:00</value>
+  </data>
+</root>

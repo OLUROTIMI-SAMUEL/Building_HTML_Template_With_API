@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="pt-BR" original="ONEPAGE.SENDEMAIL/RESOURCES/NEWPEOPLETOMET.RESX" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ONEPAGE.SENDEMAIL/RESOURCES/NEWPEOPLETOMET.RESX" datatype="resx">
+        <trans-unit id="Ajayi Daneil" translate="yes" xml:space="preserve">
+          <source>Ajayi Daneil       ajayidaneil1233@gmail.com</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Nome : Ajayi Daneil E-mail: ajayidaneil1233@gmail.com</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="Alfonso Alvares" translate="yes" xml:space="preserve">
+          <source>Alfonso Alvares  alfonsoalvares@gmail.com</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Nome : Alfonso Alvares Email : alfonsoalvares@gmail.com</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="Amaral Amorin" translate="yes" xml:space="preserve">
+          <source>Amaral Amorin   amaralamorin@gmail.com</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Nome : Amaral Amorin Email : amaralamorin@gmail.com</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="Andrade Antune" translate="yes" xml:space="preserve">
+          <source>Andrade Antune   andradeantune@gmail.com</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Nome : Andrade Antune E-mail : andradeantune@gmail.com</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="Arkanj Batita" translate="yes" xml:space="preserve">
+          <source>Arkanj Batita     arkanjbatita@gmail.com</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Nome :Arkanj Batita Email : arkanjbatita@gmail.com</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file datatype="xml" source-language="en-US" target-language="pt-BR" original="ONEPAGE.SENDEMAIL/RESOURCES/MEETINGSHEDULED.RESX" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ONEPAGE.SENDEMAIL/RESOURCES/MEETINGSHEDULED.RESX" datatype="resx">
+        <trans-unit id="Correia Daaveed" translate="yes" xml:space="preserve">
+          <source>You have a meeting with Correia Daaveed at 10:30 today</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Tem um encontro com Correia Daaveed às 10h30 de hoje</target>
+        </trans-unit>
+        <trans-unit id="Ferreira Figueira" translate="yes" xml:space="preserve">
+          <source>You have a meeting with Ferreira Figueira at 11:30 today</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Tem um encontro com Ferreira Figueira às 11:30 de hoje</target>
+        </trans-unit>
+        <trans-unit id="Gomez Kolan" translate="yes" xml:space="preserve">
+          <source>You have a meeting with Gomez Kolan at 2:00 today</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Você tem uma reunião com Gomez Kolan às 2:00 hoje</target>
+        </trans-unit>
+        <trans-unit id="LÇosta Morais" translate="yes" xml:space="preserve">
+          <source>You have a meeting with LÇosta Morais at 3:00 today</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Tem um encontro com LÇosta Morais às 15h00 de hoje</target>
+        </trans-unit>
+        <trans-unit id="Samuel Olurotimi" translate="yes" xml:space="preserve">
+          <source>You have a meeting with Samuel Olurotimi at 3:00 today</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Você tem uma reunião com Samuel Olurotimi às 3:00 hoje</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file datatype="xml" source-language="en-US" target-language="pt-BR" original="ONEPAGE.SENDEMAIL/RESOURCES/PEOPLETOMET.RESX" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ONEPAGE.SENDEMAIL/RESOURCES/PEOPLETOMET.RESX" datatype="resx">
+        <trans-unit id="Borges Branco" translate="yes" xml:space="preserve">
+          <source>You are meeting Borges Branco   borgesbranco@gmail.com</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Você está meating Borges Branco Email : borgesbranco@gmail.com</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="cabral camera" translate="yes" xml:space="preserve">
+          <source>You are meeting Cabral Camera  cabralcamera@gmail.com</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Você está meating Cabral Camera Email : cabralcamera@gmail.com</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="came campos" translate="yes" xml:space="preserve">
+          <source>You are meeting Came Campos  camecampos@gmail.com</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Você está meating Veio Campos E-mail : camecampos@gmail.com</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="carneiro chavara" translate="yes" xml:space="preserve">
+          <source>You are meeting Carneiro Chavara  carneirochavara@gmail.com</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Você está meating Carneiro Chavara Email : carneirochavara@gmail.com</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
